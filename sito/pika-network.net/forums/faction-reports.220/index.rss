@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Faction Reports</title>
+    <description>Faction Reports</description>
+    <pubDate>Sun, 07 Jan 2024 02:26:19 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jan 2024 02:26:19 +0000</lastBuildDate>
+    <generator>PikaNetwork</generator>
+    <link>https://pika-network.net/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://pika-network.net/forums/faction-reports.220/index.rss"/>
+    <item>
+      <title>[READ BEFORE REPORTING A FACTION]</title>
+      <pubDate>Sun, 24 Jul 2022 11:19:12 +0000</pubDate>
+      <link>https://pika-network.net/opf-info/</link>
+      <guid isPermaLink="false">252078</guid>
+      <author>invalid@example.com (Arrly)</author>
+      <category domain="https://pika-network.net/forums/faction-reports.220/"><![CDATA[Faction Reports]]></category>
+      <dc:creator>Arrly</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b><span style="font-size: 22px">Faction Report Information</span></b><br />
+<br />
+We always try our best to keep our network a safe playing environment for every faction and every player, both for casual and competitive gameplay. This is why we made some rules to make everything fair, which you can read <a href="https://pika-network.net/rules/" class="link link--internal">HERE</a>. Further explanations of the rules specific to this report section can be found <a href="https://pika-network.net/opf-rules/" class="link link--internal">HERE</a>. However, you may encounter someone breaking these rules while there is no Team Factions member available to investigate the...<br />
+<br />
+<a href="https://pika-network.net/opf-info/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
